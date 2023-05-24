@@ -1,1 +1,1 @@
-# learn shell script
+# learn shell script for devops
